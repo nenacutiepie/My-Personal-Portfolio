@@ -21,19 +21,19 @@ I am an IT student who loves editing, coding, and learning new technologies. I w
  - GitHub
  - Canva
 
-   # Project And Contribution
-   - Academic Management System
-   - Editor
+ # Project And Contribution
+ - Academic Management System
+ - Editor
 
-   # Screenshots/Picture
-    (add images here)
+ # Screenshots/Picture
+  (add images here)
 
 
-   # Social Media Account
-   - Instagram             https://www.instagram.com/your__madam_baby?igsh=MWdueW1vdGdqNjl3cQ==
-   - Facebook
+ # Social Media Account
+ - Instagram             https://www.instagram.com/your__madam_baby?igsh=MWdueW1vdGdqNjl3cQ==
+ - Facebook
      https://www.facebook.com/inajenes.nenarosa
-   - TikTok
+ - TikTok
    - https://www.tiktok.com/@nearose13?_r=1&_t=ZS-96iyiaUpkV5
        
 
