@@ -1,6 +1,6 @@
 # My-Personal-Portfolio
 
-#Personal Information 
+# Personal Information 
 - Name: Neña Rose C. Inajenes
 - Age: 18
 - Birthday: June,21,2007
@@ -21,17 +21,16 @@ I am an IT student who loves editing, coding, and learning new technologies. I w
  - GitHub
  - Canva
 
-   #Project And Contribution
+   # Project And Contribution
+   - Academic Management System
+   - Editor
 
-   #Academic Management System
-   - Editing
-
-   #Screenshots/Picture
+   # Screenshots/Picture
+    (add images here)
 
 
-   #Social Media Account
-   - Instagram
-     https://www.instagram.com/your__madam_baby?igsh=MWdueW1vdGdqNjl3cQ==
+   # Social Media Account
+   - Instagram             https://www.instagram.com/your__madam_baby?igsh=MWdueW1vdGdqNjl3cQ==
    - Facebook
      https://www.facebook.com/inajenes.nenarosa
    - TikTok
