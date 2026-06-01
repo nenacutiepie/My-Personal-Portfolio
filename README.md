@@ -22,8 +22,7 @@ I am an IT student who loves editing, coding, and learning new technologies. I w
  - Canva
 
  # Project And Contribution
- - Academic Management System
- - Editor
+ - UI/UX Designer 
 
  # Screenshots/Picture
   (add images here)
